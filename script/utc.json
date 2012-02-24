@@ -1,0 +1,178 @@
+{
+    "login": "mariedam", 
+    "uvs": [
+        {
+            "place": "FA100", 
+            "hors": [
+                "10:15", 
+                "12:15"
+            ], 
+            "type": "AMPHI", 
+            "name": "CM11", 
+            "day": "JEUDI"
+        }, 
+        {
+            "name": "CM11", 
+            "grp": "6", 
+            "hors": [
+                "8:00", 
+                "10:00"
+            ], 
+            "place": "FA417", 
+            "type": "TD", 
+            "day": "JEUDI"
+        }, 
+        {
+            "name": "CM11", 
+            "grp": "4", 
+            "hors": [
+                "14:30", 
+                "18:30"
+            ], 
+            "place": "ES208", 
+            "type": "TP", 
+            "day": "MERCREDI"
+        }, 
+        {
+            "place": "FA104", 
+            "hors": [
+                "14:15", 
+                "15:15"
+            ], 
+            "type": "AMPHI", 
+            "name": "TN01", 
+            "day": "VENDREDI"
+        }, 
+        {
+            "name": "TN01", 
+            "grp": "1", 
+            "hors": [
+                "8:15", 
+                "11:15"
+            ], 
+            "place": "FA512", 
+            "type": "TD", 
+            "day": "LUNDI"
+        }, 
+        {
+            "name": "LA02", 
+            "grp": "1", 
+            "hors": [
+                "10:15", 
+                "12:15"
+            ], 
+            "place": "FB214", 
+            "type": "TD", 
+            "day": "MARDI"
+        }, 
+        {
+            "name": "LA02", 
+            "grp": "3", 
+            "hors": [
+                "13:15", 
+                "14:15"
+            ], 
+            "place": "FB214", 
+            "type": "TP", 
+            "day": "JEUDI"
+        }, 
+        {
+            "name": "LG61", 
+            "grp": "4", 
+            "hors": [
+                "16:30", 
+                "18:30"
+            ], 
+            "place": "FC201", 
+            "type": "TD", 
+            "day": "VENDREDI"
+        }, 
+        {
+            "name": "LG61", 
+            "grp": "2", 
+            "hors": [
+                "16:30", 
+                "17:30"
+            ], 
+            "place": "FA410", 
+            "type": "TP", 
+            "day": "LUNDI"
+        }, 
+        {
+            "place": "FA201", 
+            "hors": [
+                "13:00", 
+                "14:00"
+            ], 
+            "type": "AMPHI", 
+            "name": "GE10", 
+            "day": "MARDI"
+        }, 
+        {
+            "name": "GE10", 
+            "grp": "3", 
+            "hors": [
+                "14:15", 
+                "16:15"
+            ], 
+            "place": "FA306", 
+            "type": "TD", 
+            "day": "LUNDI"
+        }, 
+        {
+            "place": "FA104", 
+            "hors": [
+                "8:00", 
+                "10:00"
+            ], 
+            "type": "AMPHI", 
+            "name": "SY01", 
+            "day": "VENDREDI"
+        }, 
+        {
+            "name": "SY01", 
+            "grp": "3", 
+            "hors": [
+                "10:15", 
+                "12:15"
+            ], 
+            "place": "FA505", 
+            "type": "TD", 
+            "day": "VENDREDI"
+        }, 
+        {
+            "place": "FA212", 
+            "hors": [
+                "8:30", 
+                "10:00"
+            ], 
+            "type": "AMPHI", 
+            "name": "NF02", 
+            "day": "MARDI"
+        }, 
+        {
+            "name": "NF02", 
+            "grp": "2", 
+            "hors": [
+                "16:30", 
+                "18:30"
+            ], 
+            "place": "FA418", 
+            "type": "TD", 
+            "day": "JEUDI"
+        }, 
+        {
+            "name": "NF02", 
+            "grp": "2", 
+            "hors": [
+                "14:15", 
+                "16:15"
+            ], 
+            "place": "RJ221", 
+            "type": "TP", 
+            "day": "MARDI"
+        }
+    ], 
+    "semester": "TC03", 
+    "theoric_number_of_uvs": "7"
+}

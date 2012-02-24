@@ -1,0 +1,25 @@
+ mariedam                  TC03       7  CM11     TN01     LA02     LG61     GE10     SY01     NF02     
+ 
+ 
+ CM11       C      JEUDI... 10:15-12:15,F1,S=FA100                                                              
+ CM11       D 6    JEUDI...  8:00-10:00,F1,S=FA417                                                              
+ CM11       T 4    MERCREDI 14:30-18:30,F1,S=ES208                                                              
+ 
+ TN01       C      VENDREDI 14:15-15:15,F1,S=FA104                                                              
+ TN01       D 1    LUNDI...  8:15-11:15,F1,S=FA512                                                              
+ 
+ LA02       D 1    MARDI... 10:15-12:15,F1,S=FB214                                                              
+ LA02       T 3    JEUDI... 13:15-14:15,F1,S=FB214                                                              
+ 
+ LG61       D 4    VENDREDI 16:30-18:30,F1,S=FC201                                                              
+ LG61       T 2    LUNDI... 16:30-17:30,F1,S=FA410                                                              
+ 
+ GE10       C      MARDI... 13:00-14:00,F1,S=FA201                                                              
+ GE10       D 3    LUNDI... 14:15-16:15,F1,S=FA306                                                              
+ 
+ SY01       C      VENDREDI  8:00-10:00,F1,S=FA104                                                              
+ SY01       D 3    VENDREDI 10:15-12:15,F1,S=FA505                                                              
+ 
+ NF02       C      MARDI...  8:30-10:00,F1,S=FA212                                                              
+ NF02       D 2    JEUDI... 16:30-18:30,F1,S=FA418                                                              
+ NF02       T 2    MARDI... 14:15-16:15,F2,S=RJ221                                                              
