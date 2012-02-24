@@ -1,0 +1,10 @@
+Just python scripts:
+
+extractToJson.py to convert to JSON:
+_file have to be "example.txt" and it's a copy/paste from utc text schedule
+
+utc_to_google_calendar.py to convert to CSV or ICAL:
+_modify in the last line: toical() for ICAL or tocsv() for CSV
+_depending on the semester and years and all the stuff, you have to params the script with some global at the head of the script (start_year,...)
+
+Good luck and don't hesitate to email me
